@@ -10,8 +10,6 @@ from tkinter import messagebox
 import os
 import time
 
-x=1
-
 class CountRight:
     def __init__(self,root):
         self.root=root
